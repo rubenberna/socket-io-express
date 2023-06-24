@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d4b1a742-d22b-4598-975b-f7d380af08da/resourceGroups/vg-adl-vfsbackbone-dataportal-dev-rg/providers/Microsoft.Web/sites/push-communications-socket-io-dev",
+    "appService.deploySubpath": "."
+}
